@@ -22,7 +22,8 @@
     "canvas": "^2.6.1",
     "jsdom": "^16.4.0",
     "jszip": "^3.2.2",
-    "svgdom": "^0.1.8"
+    "svgdom": "^0.1.8",
+    "xmind-viewer": "^1.1.2"
   },
   "files": [
     "dist"
